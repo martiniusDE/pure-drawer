@@ -1,0 +1,15 @@
+# IDE
+.idea/
+
+# DEV Dirs
+
+node_modules/
+*/**/node_modules/
+
+tmp/
+
+# DEV Files
+.DS_Store
+npm-debug.log
+.vagrant
+.thumbs.db
